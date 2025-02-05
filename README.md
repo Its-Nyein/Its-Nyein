@@ -76,3 +76,10 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Nyein&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
+---
+
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Life%20is%20like%20riding%20a%20bicycle.%20To%20keep%20your%20balance%20you%20must%20keep%20moving.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
