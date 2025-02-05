@@ -50,20 +50,28 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Its-Nyein/moviemissile">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Nyein&repo=moviemissile&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
-        </a>
-      </p>
-    </td>
+    <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Sᴛᴀᴛs Cᴀʀᴅ</strong></h3>
+    <p align="center">
+      <a href="https://github.com/Its-Nyein">
+        <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Nyein&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Language Card"/>
+      </a>
+    </p>
+  </td>
   </tr>
 
   <tr>
     <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Its-Nyein/moviemissile">
+          <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Nyein&repo=moviemissile&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+  <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/Its-Nyein">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Its-Nyein&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
