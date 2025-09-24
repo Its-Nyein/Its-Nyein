@@ -1,10 +1,14 @@
-<div>
+<!-- <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+</div> -->
 
 # 💫 ɪ'ᴍ ɴʏᴇɪɴ ᴘʜʏᴏ ᴀᴜɴɢ!
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
+
+<div>
+  <img align="center" alt="GIF" height="200px" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
+</div>
 
 <p align="left">
   I'm software developer specialize in building and maintaining web applications using JavaScript and modern frameworks. I'm committed to improving my skills with a focus on delivering high-quality, user-friendly experiences. Passionate about continuous learning, I stay updated with industry trends and strive to create efficient, scalable solutions.
