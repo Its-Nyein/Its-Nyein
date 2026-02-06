@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Plus Impact](https://www.plustalent.co/)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://nyeinphyoaung.vercel.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://nyeinphyoaung.com/) for more details about me.
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Its-Nyein&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Its-Nyein" style="padding-right:20px;" />
 </p>
