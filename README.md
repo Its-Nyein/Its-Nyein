@@ -20,11 +20,11 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://nyeinphyoaung.com/) for more details about me.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Its-Nyein&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Its-Nyein" style="padding-right:20px;" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=itsnyein&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Itsnyein profile view" style="padding-right:20px;" />
 </p>
 
 <a href="https://committers.top/myanmar_private#itsnyein">
-  <img src="https://user-badge.committers.top/myanmar_private/Its-Nyein.svg" alt="committers.top badge" />
+  <img src="https://user-badge.committers.top/myanmar_private/itsnyein.svg" alt="committers.top badge" />
 </a>
 
 ---
